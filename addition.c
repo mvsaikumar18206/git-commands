@@ -1,0 +1,7 @@
+#include <stdio.h>
+int a;
+int b;
+int c;
+int main()
+{add a+b+c}
+}
